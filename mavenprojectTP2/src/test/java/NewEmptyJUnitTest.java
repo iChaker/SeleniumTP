@@ -7,7 +7,7 @@
 
 /**
  *
- * @author Iyadh
+ * @author Iyadh Chaker, Omark Kammoun, Hayfa Tayeb
  */
 import org.junit.Test;
 import org.openqa.selenium.By;
